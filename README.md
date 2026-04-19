@@ -1,13 +1,6 @@
 # Hi, I'm Sonia!
 
-I'm a mathematics undergraduate at Baruch College (CUNY) interested in machine learning and its mathematical foundations.
-
-My recent work involves fine-tuning and evaluating large language models for structured generation tasks, with an emphasis on understanding model behavior and the strengths and limitations of evaluation metrics.
-
-### Current interests
-- Large language models
-- Model evaluation and reliability
-- Applied mathematics for machine learning
+I'm a mathematics undergraduate at Baruch College (CUNY) interested in NLP and the evaluation of language models. My work focuses on understanding model behavior and the limits of how we measure it: where standard metrics succeed, where they fail, and what more rigorous evaluation might look like.
 
 ### Selected work
 - **Fine-Tuning LLaMA-2-7B-Chat for Structured Cover Letter Generation**  
