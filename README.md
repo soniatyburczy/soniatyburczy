@@ -7,6 +7,10 @@ I'm a mathematics undergraduate at Baruch College (CUNY) interested in NLP and t
   QLoRA supervised fine-tuning pipeline with quantitative and qualitative evaluation  
   → https://github.com/soniatyburczy/llama2-qlora-finetune
 
+- **Structural Predictors of Chronic Absenteeism in NYC Public Schools**  
+RF and XGBoost regression models identifying structural predictors of chronic absenteeism across NYC public schools
+  → https://github.com/soniatyburczy/absenteeism-structural-predictors
+  
 ### Links
 - Website: https://soniatyburczy.github.io
 - Hugging Face: https://huggingface.co/czszt
