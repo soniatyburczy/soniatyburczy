@@ -4,11 +4,11 @@ I'm a mathematics undergraduate at Baruch College (CUNY) interested in NLP and t
 
 ### Selected work
 - **Fine-Tuning LLaMA-2-7B-Chat for Structured Cover Letter Generation**  
-  QLoRA supervised fine-tuning pipeline with quantitative and qualitative evaluation  
+  QLoRA supervised fine-tuning pipeline with quantitative and qualitative evaluation          
   → https://github.com/soniatyburczy/llama2-qlora-finetune
 
 - **Structural Predictors of Chronic Absenteeism in NYC Public Schools**  
-RF and XGBoost regression models identifying structural predictors of chronic absenteeism across NYC public schools
+  RF and XGBoost regression models identifying structural predictors of chronic absenteeism across NYC public schools.                 
   → https://github.com/soniatyburczy/absenteeism-structural-predictors
   
 ### Links
