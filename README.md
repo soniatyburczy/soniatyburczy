@@ -12,6 +12,6 @@ I'm a mathematics undergraduate at Baruch College (CUNY) interested in NLP and t
   → https://github.com/soniatyburczy/absenteeism-structural-predictors
   
 ### Links
-- Website: https://soniatyburczy.github.io
+- Website: https://soniatyburczy.com
 - Hugging Face: https://huggingface.co/czszt
 - LinkedIn: https://www.linkedin.com/in/sonia-tyburczy-427309313/
