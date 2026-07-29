@@ -3,7 +3,7 @@
 I'm a junior at Baruch College studying Mathematics. I work on data science and the
 evaluation of complex models. My thing is finding what the metrics miss—the subgroup a
 headline number hides, the data artifact nobody documented, the gap between "the score went
-up" and "it actually works".
+up" and "this actually works".
 
 ### Selected work
 
@@ -12,7 +12,7 @@ up" and "it actually works".
   structurally distinct predictors from noise. In the process I found an under-documented
   problem in NYC's Economic Need Index — a methodology shift that compresses the index at its
   ceiling and makes it unreliable to use longitudinally. Writing it up so analysts and
-  researchers relying on ENI know to account for it
+  researchers relying on ENI know to account for it.
   → https://github.com/soniatyburczy/absenteeism-structural-predictors
 
 - **Fine-Tuning LLaMA-2-7B-Chat with QLoRA**  
