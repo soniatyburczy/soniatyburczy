@@ -13,7 +13,7 @@ I'm a math student at Baruch College working across data science, machine learni
   → https://github.com/soniatyburczy/adult-income-subgroup-analysis
 
 * **Fine-Tuning LLaMA-2-7B-Chat with QLoRA**  
-  Fine-tuned LLaMA-2-7B-Chat with QLoRA for structured cover-letter generation, improving grounding, semantic similarity, and repetition.
+  Fine-tuned LLaMA-2-7B-Chat with QLoRA for structured cover-letter generation, improving grounding, semantic similarity, and repetition. 
   → https://github.com/soniatyburczy/llama2-qlora-finetune
 
 ### Links
