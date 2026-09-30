@@ -1,6 +1,8 @@
 # Hi, I'm Sonia!
 
-I'm a math student at Baruch College working across data science, machine learning, and model evaluation. I'm especially interested in **what the metrics miss** — hidden subgroups, undocumented data artifacts, and the gap between a better score and a system that actually works.
+I'm a math student at Baruch College interested in data science, machine learning, and statistical modeling. I like working with messy real-world data and figuring out what the numbers are actually telling us.
+
+I'm particularly interested in model evaluation, subgroup differences, and the assumptions and artifacts that can get lost behind a single performance metric.
 
 ### Selected work
 
