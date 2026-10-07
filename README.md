@@ -4,9 +4,7 @@ I'm a math student at Baruch College interested in data science, machine learnin
 
 I'm particularly interested in model evaluation, subgroup differences, and the assumptions and artifacts that can get lost behind a single performance metric.
 
-I also am the Workshop Director at Baruch's Machine Learning & Data Science club, check out the public workshop material here:
-
-→ https://github.com/soniatyburczy/MLDS_workshops 
+I also design and lead workshops as the Workshop Director at Baruch's Machine Learning & Data Science club, check the workshop material out [here](https://github.com/soniatyburczy/MLDS_workshops).
 
 --- 
 ### Selected work
