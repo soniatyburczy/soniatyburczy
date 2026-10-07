@@ -4,6 +4,11 @@ I'm a math student at Baruch College interested in data science, machine learnin
 
 I'm particularly interested in model evaluation, subgroup differences, and the assumptions and artifacts that can get lost behind a single performance metric.
 
+I also am the Workshop Director at Baruch's Machine Learning & Data Science club, check out the public workshop material here:
+
+→ https://github.com/soniatyburczy/MLDS_workshops 
+
+--- 
 ### Selected work
 
 * **Structural Predictors of Chronic Absenteeism in NYC Public Schools**  
@@ -17,6 +22,8 @@ I'm particularly interested in model evaluation, subgroup differences, and the a
 * **Fine-Tuning LLaMA-2-7B-Chat with QLoRA**  
   Fine-tuned LLaMA-2-7B-Chat with QLoRA for structured cover-letter generation, improving grounding, semantic similarity, and repetition.  
   → https://github.com/soniatyburczy/llama2-qlora-finetune
+
+--- 
 
 ### Links
 
